@@ -9,8 +9,10 @@ import {
 
 import Home from './components/Home';
 import Login from './components/Login';
-import Signup from './components/Signup';
-import Navbar from './components/navbar';
+//import Signup from './components/Signup';
+import Signup from './components/signup';
+
+import Navbar from './components/header';
 import OrderBlob from './components/OrderBlob';
 import Profile from './components/Profile';
 import TrainerProfile from './components/TrainerProfile';
